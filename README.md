@@ -6,7 +6,7 @@ I'm a backend developer with a focus on Python, currently exploring AI integrati
 ## 🛠 Skills & Technologies
 - **Languages:** Python
 - **Frameworks & Libraries:** Selenium, Aiogram, Pandas
-- **Areas of Expertise:** Backend Development, Web Scraping, Telegram Bot Development, AI Integration, X-Api
+- **Areas of Expertise:** Backend Development, Web Scraping, Telegram Bot Development, AI Integration, X-Api, Langchain
 
 ## 🎓 Education
 - **QA Engineer** (2023 - 2024) - IT Step Academy, Odesa, Ukraine
