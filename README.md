@@ -5,10 +5,12 @@ I'm a backend developer with a focus on Python, currently exploring AI integrati
 
 ## 🛠 Skills & Technologies
 - **Languages:** Python
-- **Frameworks & Libraries:** Selenium, Aiogram, Pandas
-- **Areas of Expertise:** Backend Development, Web Scraping, Telegram Bot Development, AI Integration, X-Api, Langchain
+- **Frameworks & Libraries:** Playwright, Selenium, Aiogram, Pandas
+- **Agentic Frameworks:** Swarm, LangGraph, LlamaIndex, Autogen
+- **Areas of Expertise:** Backend Development, Web Scraping, Telegram Bot Development, AI Integration, X-Api, RAG, Prompt Engineering
 
 ## 🎓 Education
+- **AI Multiple Courses (Since 2023)**
 - **QA Engineer** (2023 - 2024) - IT Step Academy, Odesa, Ukraine
 - **Blockchain & Cryptocurrency Courses** (2017 - 2020)
 - **Python Developer Course** (2017 - 2018) - MIPT Online Course
@@ -22,13 +24,14 @@ I'm a backend developer with a focus on Python, currently exploring AI integrati
 - Multiple learning paths from Google & Microsoft
 
 ## 💼 Professional Experience
-- 2 years of experience in software development
+- 2,5 years of experience in software development
 - Developed various Telegram bots and web scrapers
 - Currently focusing on AI integration in business processes
 
 ## 🚀 Projects
 - Various Telegram bots
 - Web scrapers
+- Trading Automation bots
 - AI integration projects (ongoing)
 
 ## 🌱 Current Focus
@@ -36,7 +39,7 @@ I'm a backend developer with a focus on Python, currently exploring AI integrati
 - Exploring AI development and FX strategies research
 
 ## 🔧 Tools
-- VS Code
+- VS Code, Cursor
 
 ## 🎯 Professional Goals
 - Deepen expertise in AI development
