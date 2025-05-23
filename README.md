@@ -4,10 +4,10 @@
 I'm a backend developer with a focus on Python, currently exploring AI integration in business processes. With a background in QA Engineering and a passion for technology, I'm constantly seeking new challenges and opportunities to grow in the tech world.
 
 ## 🛠 Skills & Technologies
-- **Languages:** Python
-- **Frameworks & Libraries:** Playwright, Selenium, Aiogram, Pandas
-- **Agentic Frameworks:** Swarm, LangGraph, LlamaIndex, Autogen
-- **Areas of Expertise:** Backend Development, Web Scraping, Telegram Bot Development, AI Integration, X-Api, RAG, Prompt Engineering
+- **Languages:** Python, Typescript, Javascript
+- **Frameworks & Libraries:** Playwright, Selenium, Aiogram, Pandas, React, R3F
+- **Agentic Frameworks:** MCP, AG-UI, A2A, LangGraph, LlamaIndex, Autogen
+- **Areas of Expertise:** Backend Development, Frontent UI interfaces, Deploying, Docker, Web Scraping, Telegram Bot Development, AI Integration, X-Api, RAG, Prompt Engineering
 
 ## 🎓 Education
 - **AI Multiple Courses (Since 2023)**
