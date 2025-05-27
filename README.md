@@ -85,7 +85,5 @@ Currently exploring challenging AI projects in collaborative team environments a
 *   **Email:** [my.novosolov@gmail.com](mailto:my.novosolov@gmail.com)
 *   **LinkedIn:** [linkedin.com/in/mykola-novosolov](https://www.linkedin.com/in/mykola-novosolov)
 *   **Telegram:** @nick_od
-*   <!-- **Instagram:** @april.ua -->
-    <!-- **Discord:** sc_kenich -->
 
 Feel free to reach out for collaborations, tech discussions, or if you think we can build something amazing together!
